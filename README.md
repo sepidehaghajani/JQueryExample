@@ -1,1 +1,1 @@
-# Data Entry in Jquery
+# Data Entry in JQuery
